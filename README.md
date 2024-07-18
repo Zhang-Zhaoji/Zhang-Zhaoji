@@ -8,7 +8,7 @@ For regular communication, please use my student email: **zhang-zj@stu.pku.edu.c
 
 ## coding languages
 
-Most of coding work I have done is about computer vision or Machine Learning/Deep Learning/Reinforcement Learning, thus Python is my first-choice language. Pytorch is the most common DL framework, but I would learn tensorflow if necessary.
+Most of coding works I have done is about computer vision or Machine Learning/Deep Learning/Reinforcement Learning, thus Python is my first-choice language. Pytorch is the most common DL framework, but I would learn tensorflow if necessary.
 
 | Rank |   Language    |  Familiarity   |
 |-----:|---------------|--------------|
