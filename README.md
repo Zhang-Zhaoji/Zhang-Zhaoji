@@ -4,18 +4,23 @@ It is my pleasure to meet you here. I am **Zhang Zhaoji(张兆骥 in Chinese)**,
 
 [My academic transcript](https://1drv.ms/b/s!Ah_4_Sy2JGNygSQ7jt_fCIdXzE2-?e=GE2ChP) is available for a deeper look into my academic journey, and you can find my research profile on [ORCID](https://orcid.org/0009-0002-3293-1961).
 
-For regular communication, please use my student email: **zhang-zj@stu.pku.edu.cn** （because check my student email is one of my daily routine）. In case you want to contact me when our server being shutdown(rare but not totally possible), Here is my personal e-mail address which is zhang_zhaoji@foxmail.com (usually I would check it once per week or month).
+For regular communication, please contact me through my student email: **zhang-zj@stu.pku.edu.cn** (Checking my student email is one of my daily routine). In case you want to contact me when our server being shutdown(may happen 1~10 times per year), Here is my personal e-mail address: zhang_zhaoji@foxmail.com (usually I would check it once per week or month, but not ensured).
 
 ## coding languages
 
-Most of the coding works I have done is about computer vision or Machine Learning/Deep Learning/Reinforcement Learning, thus Python is my first-choice coding language. Pytorch is the most common DL-framework I use, but I would learn tensorflow if necessary.
+Most of the coding works I have done is about computer vision or Machine Learning/Deep Learning/Reinforcement Learning, thus Python is my first-choice coding language. C/C++ is used for replace some for/while loops to get higher speed, although the easiest way to use .dll files in python, ctype, only permits basic C-style data structures. 
+
+I would use R to do some data analysis or statistic jobs, and R-codes are really good(and also easy) at drawing beautiful scientific figures. R-markdown is just like Python notebook, but R seems to have relatively faster speed.
+
+Pytorch is the most common DL-framework I use, but I would learn tensorflow if necessary.
 
 | Rank |   Language    |  Familiarity   |
 |-----:|---------------|--------------|
 |     1|   **Python**  |  proficient  |
 |     2|   R           |  proficient  |
+|     3|   C/C++       |  Competent   |
 |     3|   matlab      |  Competent   |
-|     3|   c++         |  Competent   |
+
 
 ## Something you might get interested in
 
