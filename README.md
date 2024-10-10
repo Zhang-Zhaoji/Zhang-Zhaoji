@@ -1,6 +1,6 @@
 ## About me
 
-It is my pleasure to meet you here. I am **Zhang Zhaoji(张兆骥 in Chinese)**, an undergraduate at Peking University majoring in Chemical Biology with a double major in Artificial Intelligence. My curiosity about Neuroscience, especially circuit and system neuroscience, has led me to be an intern at Yatang-Li's Lab at the Chinese Institute for Brain Research, Beijing (CIBR, Beijing).
+It is my pleasure to meet you here. I am **Zhang Zhaoji(张兆骥 in Chinese)**, an undergraduate at Peking University majoring in Chemical Biology with a double major in Artificial Intelligence. My curiosity about Neuroscience, especially circuit and system neuroscience, has led me to be an intern at [Yatang-Li's Lab](https://yatanglilab.cibr.ac.cn/en/) at the Chinese Institute for Brain Research, Beijing (CIBR, Beijing).
 
 [My academic transcript](https://1drv.ms/b/s!Ah_4_Sy2JGNygSQ7jt_fCIdXzE2-?e=GE2ChP) is available for a deeper look into my academic journey, and you can find my research profile on [ORCID](https://orcid.org/0009-0002-3293-1961).
 
@@ -8,7 +8,7 @@ For regular communication, please use my student email: **zhang-zj@stu.pku.edu.c
 
 ## coding languages
 
-Most of coding works I have done is about computer vision or Machine Learning/Deep Learning/Reinforcement Learning, thus Python is my first-choice coding language. Pytorch is the most common DL-framework I use, but I would learn tensorflow if necessary.
+Most of the coding works I have done is about computer vision or Machine Learning/Deep Learning/Reinforcement Learning, thus Python is my first-choice coding language. Pytorch is the most common DL-framework I use, but I would learn tensorflow if necessary.
 
 | Rank |   Language    |  Familiarity   |
 |-----:|---------------|--------------|
