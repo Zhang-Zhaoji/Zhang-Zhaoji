@@ -16,9 +16,9 @@ Pytorch is the most common DL-framework I use, but I would learn tensorflow if n
 
 | Rank |   Language    |  Familiarity   |
 |-----:|---------------|--------------|
-|     1|   **Python**  |  proficient  |
-|     2|   R           |  proficient  |
-|     3|   C/C++       |  Competent   |
+|     1|   **Python**  |  Proficient  |
+|     2|   C/C++       |  Proficient   |
+|     2|   R           |  Proficient  |
 |     3|   matlab      |  Competent   |
 
 
