@@ -6,7 +6,7 @@ My curiosity about Neuroscience, especially circuit and system neuroscience, has
 
 [My academic transcript](https://1drv.ms/b/s!Ah_4_Sy2JGNygSQ7jt_fCIdXzE2-?e=GE2ChP) is available for a deeper look into my academic journey, and you can find my research profile on [ORCID](https://orcid.org/0009-0002-3293-1961).
 
-For regular communication, please contact me through my student email: **zhang-zj@alumni.pku.edu.cn** (Checking my student email is one of my daily routine). In case you want to contact me when our server being shutdown(may happen 1~10 times per year), Here is my personal e-mail address: zhang_zhaoji@foxmail.com (usually I would check it once per week or month, but not ensured).
+For regular communication, please contact me through my student email: **zhang-zj@stu.pku.edu.cn** or **2501111571@stu.pku.edu.cn** (Checking my student email is one of my daily routine). In case you want to contact me when our server being shutdown(may happen 1~10 times per year), Here is my personal e-mail address: zhang_zhaoji@foxmail.com (usually I would check it once per week or month, but not ensured).
 
 ## Coding Languages
 
