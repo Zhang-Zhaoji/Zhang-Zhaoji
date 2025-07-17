@@ -16,12 +16,13 @@ I would use R to do some data analysis or statistic jobs, and R-codes are really
 
 Pytorch is the most common DL-framework I use, but I would learn tensorflow if necessary.
 
-| Rank |   Language    |  Familiarity   |
+| Rank |   Language    |  Familiarity |
 |-----:|---------------|--------------|
 |     1|   **Python**  |  Proficient  |
-|     2|   C/C++       |  Proficient   |
+|     2|   C/C++       |  Proficient  |
 |     2|   R           |  Proficient  |
 |     4|   matlab      |  Competent   |
+|     5| Java          | beginner     |
 
 
 ## Something you might get interested in
